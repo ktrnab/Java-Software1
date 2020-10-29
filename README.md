@@ -1,5 +1,5 @@
 # Java-Software1
-<i>These are the Java files I have coded for Software 1 - Java </i>
+<i>These are the Java files I have coded for Java Software 1. </i>
 
 <hr>
 <b> The Ohio State University Cooperation, Collaboration, and Professional Ethics Statement: </b>
