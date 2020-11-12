@@ -304,10 +304,8 @@ public final class RSSAggregator {
             outputFooter(fileOut2);
 
         } else {
-
             out.println("The URL is not a valid RSS 2.0 file.");
         }
-
     }
 
     /**
