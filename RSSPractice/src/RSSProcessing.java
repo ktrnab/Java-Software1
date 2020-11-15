@@ -9,7 +9,7 @@ import components.xmltree.XMLTree1;
  * This program inputs an XML RSS (version 2.0) feed from a given URL and
  * outputs various elements of the feed to the console.
  *
- * @author Put your name here
+ * @author Katrina B
  *
  */
 public final class RSSProcessing {
